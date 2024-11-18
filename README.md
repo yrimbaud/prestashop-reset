@@ -79,8 +79,3 @@ This project is maintained by Yann Rimbaud ([yrimbaud](https://github.com/yrimba
 ## Licence
 
 This project is licensed under the MIT License.
-1. Create an issue
-2. Submit a pull request
-3. Contact the maintainer
-
-The goal is to keep this script efficient, secure, and up-to-date with the latest PrestaShop versions.
